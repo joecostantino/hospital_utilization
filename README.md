@@ -1,9 +1,11 @@
 # hospital_utilization
 
 **How To Run**
+
 In order to run the analysis code: 
 
 Install `python3`
+
 Install `jupyter notebook` via either Anaconda or Miniconda
 
 Clone the git repository
